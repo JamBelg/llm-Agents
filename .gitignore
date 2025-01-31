@@ -1,4 +1,4 @@
 Jupyter/Pics
-.env
 .venv/
 .gitignore
+.env
