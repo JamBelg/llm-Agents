@@ -2,3 +2,4 @@ Jupyter/Pics
 .env
 Notebook1.ipynb 
 .venv/
+.gitignore
