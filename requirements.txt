@@ -1,0 +1,15 @@
+langchain-cohere
+langchain-community
+langchain
+langchain-experimental
+langchain-core
+cohere
+openai
+tavily-python
+duckduckgo-search
+google-search-results
+matplotlib
+tqdm
+pandas
+lxml
+numpy
