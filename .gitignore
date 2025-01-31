@@ -1,7 +1,4 @@
-llm_agen_env/bin
-llm_agen_env/include
-llm_agen_env/lib
-llm_agen_env/share
+llm_agen_env
 Jupyter/Pics
 .env
 Notebook1.ipynb
