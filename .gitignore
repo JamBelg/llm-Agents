@@ -1,4 +1,4 @@
 Jupyter/Pics
 .env
 Notebook1.ipynb 
-LLM_agent_env/
+.venv/
