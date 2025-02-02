@@ -13,3 +13,7 @@ tqdm
 pandas
 lxml
 numpy
+boto3
+folium
+geopandas
+shapely
