@@ -17,3 +17,6 @@ boto3
 folium
 geopandas
 shapely
+psycopg2-binary
+sqlalchemy 
+shapely
