@@ -9,6 +9,7 @@ tavily-python
 duckduckgo-search
 google-search-results
 matplotlib
+plotly
 tqdm
 pandas
 lxml
