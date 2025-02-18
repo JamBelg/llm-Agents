@@ -1,5 +1,5 @@
 .venv/
+app/
+Jupyter/
 .gitignore
 .env
-Jypyter/
-app/
