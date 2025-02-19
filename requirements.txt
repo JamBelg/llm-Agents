@@ -5,6 +5,8 @@ langchain-experimental
 langchain-core
 cohere
 openai
+langchain_deepseek
+deepseek
 tavily-python
 duckduckgo-search
 google-search-results
